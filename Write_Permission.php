@@ -6,3 +6,4 @@
  }
 
  file_put_contents ($dir.'/test.txt', 'Hello File');
+?>
