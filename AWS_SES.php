@@ -4,6 +4,7 @@
  </head>
  <body>
   <?php
+  //參考 http://www.codeproject.com/Articles/786596/How-to-use-Amazon-SES-to-Send-Email-from-PHP
 require 'aws/aws-autoloader.php';
 use Aws\Common\Enum\Region;
 use Aws\Ses\SesClient;
